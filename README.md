@@ -4,7 +4,7 @@ Hi 👋 My name is Volodymyr Nadolin
 Back-end Developer
 ------------------
 
-I've been coding for the last 2 years, started with Java, moved to Android Development, but have really found a passion for backend development. And now I understand that i\`m in complete love with it!
+I've been coding for the last 2 years, started with Java, moved to Android Development, but have really found a passion for backend development. And now I understand that I\`m in complete love with it!
 
 * 🌍  I'm based in Chernihiv, Ukraine
 * ✉️  You can contact me at [volodymyr.nadolin@gmail.com](mailto:volodymyr.nadolin@gmail.com)
