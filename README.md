@@ -10,7 +10,6 @@ I've been coding for the last 2 years, started with Java, moved to Android Devel
 * ✉️  You can contact me at [volodymyr.nadolin@gmail.com](mailto:volodymyr.nadolin@gmail.com)
 * 🧠  I'm learning JS, PHP, Laravel
 * 🤝  I'm open to collaborating on interesting PHP projects!
-* ⚡  I have a dog named Jessica
 
 ### Skills
 
